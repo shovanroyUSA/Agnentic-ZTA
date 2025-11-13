@@ -1,4 +1,4 @@
-# 🧠 Agentic-ZTA: Agentic AI based Zero Trust Architecture
+#  Agentic-ZTA: Agentic AI based Zero Trust Architecture
 
 This repository presents an Agentic AI based Zero Trust architecture (Agentic-ZTA) where autonomous AI agents are entrusted to enforce zero trust principles. These agents
 independently identify and respond to vulnerabilities and take decisions without human oversights. It emphasizes secure explainability, behavioral fingerprinting, and resilient multi-agent workflows.
@@ -23,7 +23,7 @@ independently identify and respond to vulnerabilities and take decisions without
 
 ---
 
-## 🧩 Integration Philosophy
+##  Integration Philosophy
 
 Agentic-ZTA is built on three pillars:
 
@@ -33,7 +33,7 @@ Agentic-ZTA is built on three pillars:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To explore or contribute:
 
@@ -47,6 +47,3 @@ To explore or contribute:
 
 For questions, contributions, or collaboration opportunities, feel free to open an issue or submit a pull request.
 
----
-
-Feel free to customize the tone or add badges, diagrams, or contributor sections. Let me know if you'd like help formatting those too!
